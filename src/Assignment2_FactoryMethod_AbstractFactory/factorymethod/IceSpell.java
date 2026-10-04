@@ -1,4 +1,4 @@
-package assignment2.factorymethod;
+package Assignment2_FactoryMethod_AbstractFactory.factorymethod;
 
 public class IceSpell implements Spell{
     @Override

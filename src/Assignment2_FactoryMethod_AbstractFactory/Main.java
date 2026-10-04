@@ -1,10 +1,9 @@
-package assignment2;
+package Assignment2_FactoryMethod_AbstractFactory;
 
-import assignment2.abstractfactory.*;
-import assignment2.factorymethod.FireSpellCaster;
-import assignment2.factorymethod.IceSpellCaster;
-import assignment2.factorymethod.Spell;
-import assignment2.factorymethod.SpellCaster;
+import Assignment2_FactoryMethod_AbstractFactory.abstractfactory.*;
+import Assignment2_FactoryMethod_AbstractFactory.factorymethod.FireSpellCaster;
+import Assignment2_FactoryMethod_AbstractFactory.factorymethod.IceSpellCaster;
+import Assignment2_FactoryMethod_AbstractFactory.factorymethod.SpellCaster;
 
 public class Main {
     public static void main(String[] args) {
