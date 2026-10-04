@@ -1,4 +1,4 @@
-package assignment2.abstractfactory;
+package Assignment2_FactoryMethod_AbstractFactory.abstractfactory;
 
 public class IceAttackSpell implements AttackSpell{
     @Override
